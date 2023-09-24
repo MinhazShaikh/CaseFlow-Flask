@@ -1,0 +1,126 @@
+,Priority,ScheduledDate,Case Number,Case Type,Case Type.1,Filing Date,Charges,IPC Section,Previous Criminal Record,Confession,Number of Past Hearing,Number of Hearing Previous Week,Charges Weights
+0,1,2023-09-23,CR335,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+1,1,2023-09-23,CR375,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+2,1,2023-09-23,CR155,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+3,1,2023-09-23,CR255,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,0.0,1.0,10.0,4.0,8.0
+4,1,2023-09-23,CR195,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,10.0,4.0,7.0
+5,1,2023-09-23,CR215,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,0.0,1.0,10.0,4.0,8.0
+6,1,2023-09-23,CR180,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,10.0,4.0,8.0
+7,1,2023-09-23,CR185,Sexual Assault and Robbery,Sexual Assault and Robbery,10-05-2022,Rape; Robbery,IPC-376; IPC-392,1.0,1.0,10.0,4.0,6.0
+8,1,2023-09-23,CR094,Robbery and Homicide,Robbery and Homicide,05-10-2022,Robbery; Murder,IPC-392; IPC-302,1.0,1.0,10.0,4.0,7.0
+9,1,2023-09-23,CR040,Homicide and Theft,Homicide and Theft,05-04-2022,Murder; Theft,IPC-302; IPC-379,1.0,1.0,10.0,4.0,7.0
+10,1,2023-09-23,CR455,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+11,1,2023-09-23,CR008,Rape and Assault,Rape and Assault,30-08-2022,Rape; Assault,IPC-376; IPC-323,1.0,1.0,10.0,4.0,9.0
+12,1,2023-09-23,CR495,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,20-07-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+13,1,2023-09-23,CR415,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,20-07-2022,Rape; Trafficking,IPC-376; IPC-420,1.0,1.0,10.0,4.0,8.0
+14,1,2023-09-23,CR069,Sexual Assault and Theft,Sexual Assault and Theft,30-09-2022,Rape; Theft,IPC-376; IPC-379,0.0,1.0,10.0,4.0,6.0
+15,2,2023-09-23,CR250,Assault and Burglary,Assault and Burglary,05-10-2022,Assault; Burglary,IPC-323; IPC-459,1.0,1.0,10.0,4.0,5.0
+16,2,2023-09-23,CR515,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+17,2,2023-09-23,CR380,Murder,Murder,25-08-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+18,2,2023-09-23,CR395,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+19,2,2023-09-23,CR500,Murder,Murder,15-12-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+20,2,2023-09-23,CR235,Assault and Theft,Assault and Theft,20-07-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+21,2,2023-09-23,CR435,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+22,2,2023-09-23,CR315,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,0.0,1.0,10.0,4.0,5.0
+23,2,2023-09-23,CR300,Murder,Murder,15-12-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+24,2,2023-09-23,CR420,Murder,Murder,15-12-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+25,2,2023-09-24,CR260,Murder,Murder,25-08-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+26,2,2023-09-24,CR340,Murder,Murder,05-04-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+27,2,2023-09-24,CR460,Murder,Murder,25-08-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+28,2,2023-09-24,CR275,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,4.0
+29,2,2023-09-24,CR475,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+30,2,2023-09-24,CR355,Assault and Theft,Assault and Theft,20-07-2022,Assault; Theft,IPC-323; IPC-379,1.0,1.0,10.0,4.0,5.0
+31,2,2023-09-24,CR220,Murder,Murder,05-04-2022,Murder,IPC-302,1.0,1.0,10.0,4.0,6.0
+32,2,2023-09-24,CR210,Assault and Burglary,Assault and Burglary,15-06-2022,Assault; Burglary,IPC-323; IPC-459,1.0,1.0,10.0,4.0,5.0
+33,3,2023-09-24,CR084,Theft and Drug Trafficking,Theft and Drug Trafficking,15-12-2022,Theft; Trafficking,IPC-379; IPC-420,1.0,1.0,10.0,4.0,4.0
+34,3,2023-09-24,CR031,Assault,Assault,20-07-2022,Assault,IPC-323,0.0,1.0,10.0,4.0,4.0
+35,3,2023-09-24,CR079,Robbery and Kidnapping,Robbery and Kidnapping,20-07-2022,Robbery; Kidnapping,IPC-392; IPC-365,1.0,1.0,10.0,4.0,3.0
+36,3,2023-09-24,CR050,Theft and Kidnapping,Theft and Kidnapping,25-02-2022,Theft; Kidnapping,IPC-379; IPC-365,0.0,1.0,10.0,4.0,3.0
+37,3,2023-09-24,CR320,Assault,Assault,25-08-2022,Assault,IPC-323,1.0,1.0,10.0,4.0,4.0
+38,4,2023-09-24,CR026,Drug Trafficking,Drug Trafficking,25-02-2022,Trafficking,IPC-420,1.0,1.0,10.0,4.0,3.0
+39,4,2023-09-24,CR045,Drug Trafficking,Drug Trafficking,30-09-2022,Trafficking,IPC-420,0.0,1.0,10.0,4.0,3.0
+40,5,2023-09-24,CR130,Kidnapping,Kidnapping,05-10-2022,Kidnapping,IPC-365,1.0,1.0,10.0,4.0,2.0
+41,5,2023-09-24,CR059,Burglary and Robbery,Burglary and Robbery,10-11-2022,Burglary; Robbery,IPC-459; IPC-392,0.0,1.0,10.0,4.0,2.0
+42,5,2023-09-24,CR022,Kidnapping,Kidnapping,05-10-2022,Kidnapping,IPC-365,0.0,1.0,10.0,4.0,2.0
+43,6,2023-09-24,CR265,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+44,6,2023-09-24,CR445,Burglary and Robbery,Burglary and Robbery,10-05-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+45,6,2023-09-24,CR325,Burglary and Robbery,Burglary and Robbery,20-01-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+46,6,2023-09-24,CR505,Burglary,Burglary,10-05-2023,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+47,6,2023-09-24,CR225,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+48,6,2023-09-24,CR465,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+49,6,2023-09-24,CR485,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+50,6,2023-09-25,CR205,Theft,Theft,20-01-2022,Theft,IPC-379,0.0,1.0,10.0,4.0,1.0
+51,6,2023-09-25,CR305,Burglary,Burglary,10-05-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+52,6,2023-09-25,CR365,Burglary and Robbery,Burglary and Robbery,10-05-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+53,6,2023-09-25,CR100,Theft,Theft,05-04-2022,Theft,IPC-379,0.0,1.0,10.0,4.0,1.0
+54,6,2023-09-25,CR345,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+55,6,2023-09-25,CR385,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+56,6,2023-09-25,CR175,Theft,Theft,20-07-2022,Theft,IPC-379,0.0,1.0,10.0,4.0,1.0
+57,6,2023-09-25,CR425,Burglary,Burglary,10-05-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+58,6,2023-09-25,CR074,Theft and Robbery,Theft and Robbery,25-02-2022,Theft; Robbery,IPC-379; IPC-392,1.0,1.0,10.0,4.0,2.0
+59,6,2023-09-25,CR089,Robbery,Robbery,10-05-2022,Robbery,IPC-392,1.0,1.0,10.0,4.0,1.0
+60,6,2023-09-25,CR165,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1.0,1.0,10.0,4.0,1.0
+61,6,2023-09-25,CR285,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+62,6,2023-09-25,CR405,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1.0,1.0,10.0,4.0,2.0
+63,1,2023-09-25,CR261,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+64,1,2023-09-25,CR131,Sexual Assault and Kidnapping,Sexual Assault and Kidnapping,10-11-2022,Rape; Kidnapping,IPC-376; IPC-365,1.0,1.0,9.0,3.0,7.0
+65,1,2023-09-25,CR136,Sexual Assault,Sexual Assault,05-04-2022,Rape,IPC-376,0.0,1.0,9.0,3.0,5.0
+66,1,2023-09-25,CR326,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,25-02-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+67,1,2023-09-25,CR141,Assault and Homicide,Assault and Homicide,30-09-2022,Assault; Murder,IPC-323; IPC-302,0.0,1.0,9.0,3.0,10.0
+68,1,2023-09-25,CR144,Drug Trafficking and Homicide,Drug Trafficking and Homicide,15-12-2022,Trafficking; Murder,IPC-420; IPC-302,1.0,1.0,9.0,0.0,9.0
+69,1,2023-09-25,CR316,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-04-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+70,1,2023-09-25,CR149,Sexual Assault and Homicide,Sexual Assault and Homicide,10-05-2022,Rape; Murder,IPC-376; IPC-302,1.0,1.0,9.0,0.0,11.0
+71,1,2023-09-25,CR301,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+72,1,2023-09-25,CR336,Assault and Homicide,Assault and Homicide,15-12-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+73,1,2023-09-25,CR339,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+74,1,2023-09-25,CR381,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+75,1,2023-09-26,CR379,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+76,1,2023-09-26,CR376,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+77,1,2023-09-26,CR366,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+78,1,2023-09-26,CR359,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+79,1,2023-09-26,CR341,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+80,1,2023-09-26,CR221,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,0.0,1.0,9.0,3.0,5.0
+81,1,2023-09-26,CR299,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+82,1,2023-09-26,CR296,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+83,1,2023-09-26,CR246,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+84,1,2023-09-26,CR204,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,0.0,8.0
+85,1,2023-09-26,CR191,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,0.0,1.0,9.0,3.0,8.0
+86,1,2023-09-26,CR239,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+87,1,2023-09-26,CR216,Assault and Homicide,Assault and Homicide,15-12-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+88,1,2023-09-26,CR256,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+89,1,2023-09-26,CR161,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+90,1,2023-09-26,CR286,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,0.0,1.0,9.0,3.0,8.0
+91,1,2023-09-26,CR169,Drug Trafficking and Homicide,Drug Trafficking and Homicide,20-01-2022,Trafficking; Murder,IPC-420; IPC-302,0.0,1.0,9.0,0.0,9.0
+92,1,2023-09-26,CR279,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+93,1,2023-09-26,CR519,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+94,1,2023-09-26,CR174,Sexual Assault and Homicide,Sexual Assault and Homicide,15-06-2022,Rape; Murder,IPC-376; IPC-302,1.0,1.0,9.0,0.0,11.0
+95,1,2023-09-26,CR461,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+96,1,2023-09-26,CR459,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+97,1,2023-09-26,CR456,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+98,1,2023-09-26,CR446,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+99,1,2023-09-26,CR439,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,6.0
+100,1,2023-09-27,CR054,Sexual Assault,Sexual Assault,15-06-2022,Rape,IPC-376,0.0,1.0,9.0,3.0,5.0
+101,1,2023-09-27,CR501,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+102,1,2023-09-27,CR499,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+103,1,2023-09-27,CR496,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+104,1,2023-09-27,CR486,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+105,1,2023-09-27,CR479,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+106,1,2023-09-27,CR027,Sexual Assault,Sexual Assault,30-03-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+107,1,2023-09-27,CR060,Murder and Kidnapping,Murder and Kidnapping,15-12-2022,Murder; Kidnapping,IPC-302; IPC-365,1.0,1.0,9.0,3.0,8.0
+108,1,2023-09-27,CR078,Burglary and Homicide,Burglary and Homicide,15-06-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+109,1,2023-09-27,CR399,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1.0,1.0,9.0,0.0,7.0
+110,1,2023-09-27,CR073,Sexual Assault and Kidnapping,Sexual Assault and Kidnapping,20-01-2022,Rape; Kidnapping,IPC-376; IPC-365,0.0,1.0,9.0,0.0,7.0
+111,1,2023-09-27,CR416,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1.0,1.0,9.0,3.0,10.0
+112,1,2023-09-27,CR406,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,1.0,1.0,9.0,3.0,8.0
+113,1,2023-09-27,CR088,Kidnapping and Homicide,Kidnapping and Homicide,05-04-2022,Kidnapping; Murder,IPC-365; IPC-302,1.0,1.0,9.0,0.0,8.0
+114,1,2023-09-27,CR419,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0.0,1.0,9.0,0.0,7.0
+115,1,2023-09-27,CR080,Sexual Assault,Sexual Assault,25-08-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+116,1,2023-09-27,CR421,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1.0,1.0,9.0,3.0,5.0
+117,2,2023-09-27,CR231,Murder,Murder,30-03-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0
+118,2,2023-09-27,CR511,Murder,Murder,10-11-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0
+119,2,2023-09-27,CR241,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,1.0,1.0,9.0,3.0,3.0
+120,2,2023-09-27,CR431,Murder,Murder,10-11-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0
+121,2,2023-09-27,CR311,Murder,Murder,10-11-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0
+122,2,2023-09-27,CR391,Murder,Murder,20-07-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0
+123,2,2023-09-27,CR294,Robbery and Assault,Robbery and Assault,15-06-2022,Robbery; Assault,IPC-392; IPC-323,1.0,1.0,9.0,0.0,5.0
+124,2,2023-09-27,CR351,Murder,Murder,30-03-2022,Murder,IPC-302,1.0,1.0,9.0,3.0,6.0

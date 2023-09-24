@@ -1,0 +1,519 @@
+Case Number,Case Type,Case Type.1,Filing Date,Charges,IPC Section,Previous Criminal Record,Confession,Number of Past Hearing,Number of Hearing Previous Week,Priority,Charges Weights
+CR001,Homicide,Homicide,15-01-2022,Murder,IPC-302,1,1,3,1,2,6
+CR002,Sexual Assault,Sexual Assault,20-02-2022,Rape,IPC-376,0,0,2,0,1,5
+CR003,Drug Trafficking,Drug Trafficking,10-03-2022,Trafficking,IPC-420,0,1,4,2,4,3
+CR004,Kidnapping,Kidnapping,05-04-2022,Kidnapping,IPC-365,1,0,5,3,5,2
+CR005,Assault,Assault,12-05-2022,Assault,IPC-323,0,1,3,1,3,4
+CR006,Theft,Theft,18-06-2022,Theft,IPC-379,0,0,2,0,6,1
+CR007,Murder and Theft,Murder and Theft,22-07-2022,Murder,IPC-302,1,1,4,2,2,6
+CR008,Rape and Assault,Rape and Assault,30-08-2022,Rape; Assault,IPC-376; IPC-323,1,1,6,4,1,9
+CR009,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,05-09-2022,Trafficking; Kidnapping,IPC-420; IPC-365,0,1,5,3,3,5
+CR010,Kidnapping and Assault,Kidnapping and Assault,10-10-2022,Kidnapping; Assault,IPC-365; IPC-323,0,1,3,1,2,6
+CR011,Burglary,Burglary,20-11-2022,Theft,IPC-380,0,1,4,2,6,1
+CR012,Robbery,Robbery,01-12-2022,Robbery,IPC-392,1,0,5,3,6,1
+CR013,Kidnapping,Kidnapping,05-01-2022,Kidnapping,IPC-365,1,0,3,1,5,2
+CR014,Assault,Assault,12-02-2022,Assault,IPC-323,1,1,2,0,3,4
+CR015,Homicide,Homicide,18-03-2022,Murder,IPC-302,1,0,6,4,2,6
+CR016,Sexual Assault,Sexual Assault,25-04-2022,Rape,IPC-376,0,1,3,1,1,5
+CR017,Theft,Theft,30-05-2022,Theft,IPC-379,0,0,5,3,6,1
+CR018,Drug Trafficking,Drug Trafficking,15-06-2022,Trafficking,IPC-420,1,1,4,2,4,3
+CR019,Murder,Murder,19-07-2022,Murder,IPC-302,0,1,2,0,2,6
+CR020,Robbery and Assault,  ,25-08-2022,Robbery; Assault,IPC-392; IPC-323,1,1,3,1,2,5
+CR021,Burglary and Theft,Burglary and Theft,30-09-2022,Theft; Burglary,IPC-380; IPC-459,0,0,5,3,5,2
+CR022,Kidnapping,Kidnapping,05-10-2022,Kidnapping,IPC-365,0,1,6,4,5,2
+CR023,Homicide,Homicide,10-11-2022,Murder,IPC-302,0,0,4,2,2,6
+CR024,Assault,Assault,15-12-2022,Assault,IPC-323,1,1,3,1,3,4
+CR025,Robbery,Robbery,20-01-2022,Robbery,IPC-392,0,0,2,0,6,1
+CR026,Drug Trafficking,Drug Trafficking,25-02-2022,Trafficking,IPC-420,1,1,6,4,4,3
+CR027,Sexual Assault,Sexual Assault,30-03-2022,Rape,IPC-376,1,1,5,3,1,5
+CR028,Theft,Theft,05-04-2022,Theft,IPC-379,0,0,4,2,6,1
+CR029,Kidnapping and Murder,Kidnapping and Murder,10-05-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR030,Burglary and Robbery,Burglary and Robbery,15-06-2022,Burglary; Robbery,IPC-380; IPC-392,0,1,2,0,5,2
+CR031,Assault,Assault,20-07-2022,Assault,IPC-323,0,1,6,4,3,4
+CR032,Drug Trafficking,Drug Trafficking,25-08-2022,Trafficking,IPC-420,1,1,4,2,4,3
+CR033,Theft and Assault,Theft and Assault,30-09-2022,Theft; Assault,IPC-379; IPC-323,1,0,5,3,2,5
+CR034,Kidnapping,Kidnapping,05-10-2022,Kidnapping,IPC-365,1,0,3,1,5,2
+CR035,Murder,Murder,10-11-2022,Murder,IPC-302,0,1,2,0,2,6
+CR036,Sexual Assault,Sexual Assault,15-12-2022,Rape,IPC-376,0,0,4,2,1,5
+CR037,Burglary and Robbery,Burglary and Robbery,20-01-2022,Burglary; Robbery,IPC-380; IPC-392,1,1,5,3,5,2
+CR038,Drug Trafficking,Drug Trafficking,25-02-2022,Trafficking,IPC-420,1,1,3,1,4,3
+CR039,Assault,Assault,30-03-2022,Assault,IPC-323,1,0,2,0,3,4
+CR040,Homicide and Theft,Homicide and Theft,05-04-2022,Murder; Theft,IPC-302; IPC-379,1,1,6,4,1,7
+CR041,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,4,2,3,3
+CR042,Sexual Assault and Murder,Sexual Assault and Murder,15-06-2022,Rape; Murder,IPC-376; IPC-302,1,0,5,3,1,11
+CR043,Theft and Burglary,Theft and Burglary,20-07-2022,Theft; Burglary,IPC-379; IPC-459,1,1,3,1,5,2
+CR044,Assault,Assault,25-08-2022,Assault,IPC-323,0,0,2,0,3,4
+CR045,Drug Trafficking,Drug Trafficking,30-09-2022,Trafficking,IPC-420,0,1,6,4,4,3
+CR046,Robbery,Robbery,05-10-2022,Robbery,IPC-392,1,1,4,2,6,1
+CR047,Kidnapping and Theft,Kidnapping and Theft,10-11-2022,Kidnapping; Theft,IPC-365; IPC-379,0,0,5,3,3,3
+CR048,Burglary and Homicide,Burglary and Homicide,15-12-2022,Burglary; Murder,IPC-380; IPC-302,1,1,3,1,1,7
+CR049,Sexual Assault and Robbery,Sexual Assault and Robbery,20-01-2022,Rape; Robbery,IPC-376; IPC-392,1,0,2,0,1,6
+CR050,Theft and Kidnapping,Theft and Kidnapping,25-02-2022,Theft; Kidnapping,IPC-379; IPC-365,0,1,6,4,3,3
+CR051,Burglary,Burglary,30-03-2022,Burglary,IPC-459,1,1,3,1,6,1
+CR052,Drug Trafficking,Drug Trafficking,05-04-2022,Trafficking,IPC-420,1,0,2,0,4,3
+CR053,Homicide,Homicide,10-05-2022,Murder,IPC-302,1,1,4,2,2,6
+CR054,Sexual Assault,Sexual Assault,15-06-2022,Rape,IPC-376,0,1,5,3,1,5
+CR055,Theft,Theft,20-07-2022,Theft,IPC-379,1,0,6,4,6,1
+CR056,Kidnapping,Kidnapping,25-08-2022,Kidnapping,IPC-365,0,1,4,2,5,2
+CR057,Robbery,Robbery,30-09-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR058,Assault,Assault,05-10-2022,Assault,IPC-323,0,0,2,0,3,4
+CR059,Burglary and Robbery,Burglary and Robbery,10-11-2022,Burglary; Robbery,IPC-459; IPC-392,0,1,6,4,5,2
+CR060,Murder and Kidnapping,Murder and Kidnapping,15-12-2022,Murder; Kidnapping,IPC-302; IPC-365,1,1,5,3,1,8
+CR061,Sexual Assault and Robbery,Sexual Assault and Robbery,20-01-2022,Rape; Robbery,IPC-376; IPC-392,0,0,4,2,1,6
+CR062,Drug Trafficking and Homicide,Drug Trafficking and Homicide,25-02-2022,Trafficking; Murder,IPC-420; IPC-302,1,1,3,1,1,9
+CR063,Theft,Theft,30-03-2022,Theft,IPC-379,0,1,2,0,6,1
+CR064,Kidnapping,Kidnapping,05-04-2022,Kidnapping,IPC-365,1,0,6,4,5,2
+CR065,Burglary and Assault,Burglary and Assault,10-05-2022,Burglary; Assault,IPC-459; IPC-323,0,0,5,3,2,5
+CR066,Robbery and Drug Trafficking,Robbery and Drug Trafficking,15-06-2022,Robbery; Trafficking,IPC-392; IPC-420,1,1,4,2,4,4
+CR067,Assault and Homicide,Assault and Homicide,20-07-2022,Assault; Murder,IPC-323; IPC-302,1,1,3,1,1,10
+CR068,Kidnapping,Kidnapping,25-08-2022,Kidnapping,IPC-365,0,0,2,0,5,2
+CR069,Sexual Assault and Theft,Sexual Assault and Theft,30-09-2022,Rape; Theft,IPC-376; IPC-379,0,1,6,4,1,6
+CR070,Burglary,Burglary,05-10-2022,Burglary,IPC-459,1,0,5,3,6,1
+CR071,Robbery,Robbery,10-11-2022,Robbery,IPC-392,1,1,4,2,6,1
+CR072,Murder and Assault,Murder and Assault,15-12-2022,Murder; Assault,IPC-302; IPC-323,1,0,3,1,1,10
+CR073,Sexual Assault and Kidnapping,Sexual Assault and Kidnapping,20-01-2022,Rape; Kidnapping,IPC-376; IPC-365,0,1,2,0,1,7
+CR074,Theft and Robbery,Theft and Robbery,25-02-2022,Theft; Robbery,IPC-379; IPC-392,1,1,6,4,6,2
+CR075,Kidnapping,Kidnapping,30-03-2022,Kidnapping,IPC-365,0,0,5,3,5,2
+CR076,Assault,Assault,05-04-2022,Assault,IPC-323,1,1,4,2,3,4
+CR077,Drug Trafficking,Drug Trafficking,10-05-2022,Trafficking,IPC-420,1,0,3,1,4,3
+CR078,Burglary and Homicide,Burglary and Homicide,15-06-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR079,Robbery and Kidnapping,Robbery and Kidnapping,20-07-2022,Robbery; Kidnapping,IPC-392; IPC-365,1,1,6,4,3,3
+CR080,Sexual Assault,Sexual Assault,25-08-2022,Rape,IPC-376,1,1,5,3,1,5
+CR081,Murder,Murder,30-09-2022,Murder,IPC-302,0,0,4,2,2,6
+CR082,Assault,Assault,05-10-2022,Assault,IPC-323,1,1,3,1,3,4
+CR083,Kidnapping and Robbery,Kidnapping and Robbery,10-11-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,0,2,0,3,3
+CR084,Theft and Drug Trafficking,Theft and Drug Trafficking,15-12-2022,Theft; Trafficking,IPC-379; IPC-420,1,1,6,4,3,4
+CR085,Burglary,Burglary,20-01-2022,Burglary,IPC-459,0,0,5,3,6,1
+CR086,Murder,Murder,25-02-2022,Murder,IPC-302,1,1,4,2,2,6
+CR087,Sexual Assault and Assault,Sexual Assault and Assault,30-03-2022,Rape; Assault,IPC-376; IPC-323,1,0,3,1,1,9
+CR088,Kidnapping and Homicide,Kidnapping and Homicide,05-04-2022,Kidnapping; Murder,IPC-365; IPC-302,1,1,2,0,1,8
+CR089,Robbery,Robbery,10-05-2022,Robbery,IPC-392,1,1,6,4,6,1
+CR091,Kidnapping and Robbery,Kidnapping and Robbery,20-07-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,4,2,2,3
+CR092,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,25-08-2022,Rape; Trafficking,IPC-376; IPC-420,1,0,3,1,1,8
+CR093,Assault,Assault,30-09-2022,Assault,IPC-323,0,0,2,0,3,4
+CR094,Robbery and Homicide,Robbery and Homicide,05-10-2022,Robbery; Murder,IPC-392; IPC-302,1,1,6,4,1,7
+CR095,Burglary,Burglary,10-11-2022,Burglary,IPC-459,0,1,5,3,6,1
+CR096,Murder,Murder,15-12-2022,Murder,IPC-302,0,0,4,2,2,6
+CR097,Kidnapping and Assault,Kidnapping and Assault,20-01-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,3,1,2,8
+CR098,Sexual Assault and Theft,Sexual Assault and Theft,25-02-2022,Rape; Theft,IPC-376; IPC-379,1,0,2,0,1,6
+CR099,Drug Trafficking and Robbery,Drug Trafficking and Robbery,30-03-2022,Trafficking; Robbery,IPC-420; IPC-392,1,1,4,2,4,4
+CR100,Theft,Theft,05-04-2022,Theft,IPC-379,0,1,6,4,6,1
+CR101,Burglary and Kidnapping,Burglary and Kidnapping,10-05-2022,Burglary; Kidnapping,IPC-459; IPC-365,1,0,5,3,2,3
+CR102,Assault and Robbery,Assault and Robbery,15-06-2022,Assault; Robbery,IPC-323; IPC-392,1,1,3,1,2,5
+CR103,Homicide,Homicide,20-07-2022,Murder,IPC-302,1,1,2,0,2,6
+CR104,Sexual Assault,Sexual Assault,25-08-2022,Rape,IPC-376,0,0,4,2,1,5
+CR105,Robbery and Burglary,Robbery and Burglary,30-09-2022,Robbery; Burglary,IPC-392; IPC-459,1,0,6,4,6,2
+CR106,Kidnapping and Theft,Kidnapping and Theft,05-10-2022,Kidnapping; Theft,IPC-365; IPC-379,1,1,5,3,3,3
+CR107,Assault and Homicide,Assault and Homicide,10-11-2022,Assault; Murder,IPC-323; IPC-302,1,0,3,1,1,10
+CR108,Drug Trafficking,Drug Trafficking,15-12-2022,Trafficking,IPC-420,0,1,2,0,4,3
+CR109,Burglary and Robbery,Burglary and Robbery,20-01-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,4,2,6,2
+CR110,Murder,Murder,25-02-2022,Murder,IPC-302,1,0,6,4,2,6
+CR111,Kidnapping,Kidnapping,30-03-2022,Kidnapping,IPC-365,0,0,5,3,5,2
+CR112,Sexual Assault and Homicide,Sexual Assault and Homicide,05-04-2022,Rape; Murder,IPC-376; IPC-302,1,1,4,2,1,10
+CR113,Theft,Theft,10-05-2022,Theft,IPC-379,0,1,3,1,6,1
+CR114,Assault,Assault,15-06-2022,Assault,IPC-323,1,1,2,0,3,4
+CR115,Robbery and Drug Trafficking,Robbery and Drug Trafficking,20-07-2022,Robbery; Trafficking,IPC-392; IPC-420,0,0,6,4,4,4
+CR116,Kidnapping and Burglary,Kidnapping and Burglary,25-08-2022,Kidnapping; Burglary,IPC-365; IPC-459,1,1,5,3,3,3
+CR117,Burglary,Burglary,30-09-2022,Burglary,IPC-459,0,0,4,2,6,1
+CR118,Sexual Assault and Kidnapping,Sexual Assault and Kidnapping,05-10-2022,Rape; Kidnapping,IPC-376; IPC-365,1,1,3,1,1,7
+CR119,Robbery and Assault,Robbery and Assault,10-11-2022,Robbery; Assault,IPC-392; IPC-323,0,1,2,0,2,5
+CR120,Drug Trafficking,Drug Trafficking,15-12-2022,Trafficking,IPC-420,1,0,6,4,4,3
+CR121,Theft,Theft,20-01-2022,Theft,IPC-379,1,1,5,3,6,1
+CR122,Murder,Murder,25-02-2022,Murder,IPC-302,1,1,4,2,2,6
+CR123,Assault,Assault,30-03-2022,Assault,IPC-323,0,0,3,1,3,4
+CR124,Kidnapping and Robbery,Kidnapping and Robbery,05-04-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,2,0,3,3
+CR125,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-05-2022,Rape; Trafficking,IPC-376; IPC-420,1,0,6,4,1,8
+CR126,Robbery,Robbery,15-06-2022,Robbery,IPC-392,1,1,5,3,6,1
+CR127,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1,1,4,2,1,7
+CR128,Assault,Assault,25-08-2022,Assault,IPC-323,1,0,3,1,3,4
+CR129,Theft,Theft,30-09-2022,Theft,IPC-379,0,1,2,0,6,1
+CR130,Kidnapping,Kidnapping,05-10-2022,Kidnapping,IPC-365,1,1,6,4,5,2
+CR131,Sexual Assault and Kidnapping,Sexual Assault and Kidnapping,10-11-2022,Rape; Kidnapping,IPC-376; IPC-365,1,1,5,3,1,7
+CR132,Robbery and Burglary,Robbery and Burglary,15-12-2022,Robbery; Burglary,IPC-392; IPC-459,1,0,4,2,6,2
+CR133,Kidnapping,Kidnapping,20-01-2022,Kidnapping,IPC-365,0,1,3,1,5,2
+CR134,Assault,Assault,25-02-2022,Assault,IPC-323,1,1,2,0,3,4
+CR135,Murder,Murder,30-03-2022,Murder,IPC-302,1,0,6,4,2,6
+CR136,Sexual Assault,Sexual Assault,05-04-2022,Rape,IPC-376,0,1,5,3,1,5
+CR137,Robbery and Theft,Robbery and Theft,10-05-2022,Robbery; Theft,IPC-392; IPC-379,0,0,4,2,6,2
+CR138,Drug Trafficking,Drug Trafficking,15-06-2022,Trafficking,IPC-420,1,1,3,1,4,3
+CR139,Theft and Robbery,Theft and Robbery,20-07-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR140,Burglary,Burglary,25-08-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR141,Assault and Homicide,Assault and Homicide,30-09-2022,Assault; Murder,IPC-323; IPC-302,0,1,5,3,1,10
+CR142,Sexual Assault and Robbery,Sexual Assault and Robbery,05-10-2022,Rape; Robbery,IPC-376; IPC-392,0,0,4,2,1,6
+CR143,Kidnapping and Assault,Kidnapping and Assault,10-11-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,3,1,2,6
+CR144,Drug Trafficking and Homicide,Drug Trafficking and Homicide,15-12-2022,Trafficking; Murder,IPC-420; IPC-302,1,1,2,0,1,9
+CR145,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR146,Robbery and Kidnapping,Robbery and Kidnapping,25-02-2022,Robbery; Kidnapping,IPC-392; IPC-365,0,1,5,3,2,3
+CR147,Assault,Assault,30-03-2022,Assault,IPC-323,0,0,4,2,3,4
+CR148,Kidnapping and Theft,Kidnapping and Theft,05-04-2022,Kidnapping; Theft,IPC-365; IPC-379,1,1,3,1,2,3
+CR149,Sexual Assault and Homicide,Sexual Assault and Homicide,10-05-2022,Rape; Murder,IPC-376; IPC-302,1,1,2,0,1,11
+CR150,Theft,Theft,15-06-2022,Theft,IPC-379,1,0,6,4,6,1
+CR151,Burglary and Assault,Burglary and Assault,20-07-2022,Burglary; Assault,IPC-459; IPC-323,1,1,5,3,2,5
+CR152,Drug Trafficking,Drug Trafficking,25-08-2022,Trafficking,IPC-420,1,1,4,2,4,3
+CR153,Robbery and Homicide,Robbery and Homicide,30-09-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR154,Kidnapping and Robbery,Kidnapping and Robbery,05-10-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,2,0,3,3
+CR155,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR156,Assault,Assault,15-12-2022,Assault,IPC-323,1,1,5,3,3,4
+CR157,Theft,Theft,20-01-2022,Theft,IPC-379,0,1,4,2,6,1
+CR158,Kidnapping,Kidnapping,25-02-2022,Kidnapping,IPC-365,1,0,3,1,5,2
+CR159,Robbery and Burglary,Robbery and Burglary,30-03-2022,Robbery; Burglary,IPC-392; IPC-459,1,1,2,0,6,2
+CR160,Murder,Murder,05-04-2022,Murder,IPC-302,1,0,6,4,2,6
+CR161,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,1,1,5,3,1,5
+CR162,Robbery and Theft,Robbery and Theft,15-06-2022,Robbery; Theft,IPC-392; IPC-379,0,0,4,2,6,2
+CR163,Drug Trafficking,Drug Trafficking,20-07-2022,Trafficking,IPC-420,1,0,3,1,4,3
+CR164,Theft and Robbery,Theft and Robbery,25-08-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR165,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR166,Assault and Homicide,Assault and Homicide,05-10-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR167,Sexual Assault and Robbery,Sexual Assault and Robbery,10-11-2022,Rape; Robbery,IPC-376; IPC-392,0,1,4,2,1,6
+CR168,Kidnapping and Assault,Kidnapping and Assault,15-12-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,3,1,2,6
+CR169,Drug Trafficking and Homicide,Drug Trafficking and Homicide,20-01-2022,Trafficking; Murder,IPC-420; IPC-302,0,1,2,0,1,9
+CR170,Burglary,Burglary,25-02-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR171,Robbery and Kidnapping,Robbery and Kidnapping,30-03-2022,Robbery; Kidnapping,IPC-392; IPC-365,0,1,5,3,2,3
+CR172,Assault,Assault,05-04-2022,Assault,IPC-323,0,0,4,2,3,4
+CR173,Kidnapping and Theft,Kidnapping and Theft,10-05-2022,Kidnapping; Theft,IPC-365; IPC-379,1,1,3,1,3,3
+CR174,Sexual Assault and Homicide,Sexual Assault and Homicide,15-06-2022,Rape; Murder,IPC-376; IPC-302,1,1,2,0,1,11
+CR175,Theft,Theft,20-07-2022,Theft,IPC-379,0,1,6,4,6,1
+CR176,Robbery,Robbery,25-08-2022,Robbery,IPC-392,1,0,5,3,6,1
+CR177,Kidnapping and Homicide,Kidnapping and Homicide,30-09-2022,Kidnapping; Murder,IPC-365; IPC-302,1,1,4,2,1,8
+CR178,Assault,Assault,05-10-2022,Assault,IPC-323,1,1,3,1,3,4
+CR179,Burglary and Robbery,Burglary and Robbery,10-11-2022,Burglary; Robbery,IPC-459; IPC-392,1,0,2,0,6,2
+CR180,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,6,4,1,8
+CR181,Theft,Theft,20-01-2022,Theft,IPC-379,0,1,5,3,6,1
+CR182,Kidnapping and Assault,Kidnapping and Assault,25-02-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,4,2,2,6
+CR183,Robbery and Homicide,Robbery and Homicide,30-03-2022,Robbery; Murder,IPC-392; IPC-302,1,1,3,1,1,7
+CR184,Murder,Murder,05-04-2022,Murder,IPC-302,0,1,2,0,2,6
+CR185,Sexual Assault and Robbery,Sexual Assault and Robbery,10-05-2022,Rape; Robbery,IPC-376; IPC-392,1,1,6,4,1,6
+CR186,Assault and Burglary,Assault and Burglary,15-06-2022,Assault; Burglary,IPC-323; IPC-459,1,0,5,3,2,5
+CR187,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,20-07-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,4,2,3,5
+CR188,Theft and Sexual Assault,Theft and Sexual Assault,25-08-2022,Theft; Rape,IPC-379; IPC-376,0,1,3,1,1,6
+CR189,Kidnapping and Robbery,Kidnapping and Robbery,30-09-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,2,0,2,3
+CR190,Robbery and Assault,Robbery and Assault,05-10-2022,Robbery; Assault,IPC-392; IPC-323,1,0,6,4,2,5
+CR191,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,0,1,5,3,1,8
+CR192,Assault and Homicide,Assault and Homicide,15-12-2022,Assault; Murder,IPC-323; IPC-302,1,1,4,2,1,10
+CR193,Kidnapping and Theft,Kidnapping and Theft,20-01-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,3,1,3,3
+CR194,Robbery,Robbery,25-02-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR195,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,1,6,4,1,7
+CR196,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,5,3,3,4
+CR197,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,2,3
+CR198,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,15-06-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR199,Theft and Assault,Theft and Assault,20-07-2022,Theft; Assault,IPC-379; IPC-323,0,1,2,0,2,5
+CR200,Burglary,Burglary,25-08-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR201,Robbery and Kidnapping,Robbery and Kidnapping,30-09-2022,Robbery; Kidnapping,IPC-392; IPC-365,1,1,5,3,2,3
+CR202,Assault,Assault,05-10-2022,Assault,IPC-323,1,0,4,2,3,4
+CR203,Kidnapping and Homicide,Kidnapping and Homicide,10-11-2022,Kidnapping; Murder,IPC-365; IPC-302,1,1,3,1,1,8
+CR204,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,2,0,1,8
+CR205,Theft,Theft,20-01-2022,Theft,IPC-379,0,1,6,4,6,1
+CR206,Burglary,Burglary,25-02-2022,Burglary,IPC-459,0,0,5,3,6,1
+CR207,Sexual Assault and Assault,Sexual Assault and Assault,30-03-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR208,Kidnapping and Robbery,Kidnapping and Robbery,05-04-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,0,3,1,2,3
+CR209,Robbery,Robbery,10-05-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR210,Assault and Burglary,Assault and Burglary,15-06-2022,Assault; Burglary,IPC-323; IPC-459,1,1,6,4,2,5
+CR211,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,20-07-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR212,Theft and Sexual Assault,Theft and Sexual Assault,25-08-2022,Theft; Rape,IPC-379; IPC-376,1,0,4,2,1,6
+CR213,Kidnapping and Robbery,Kidnapping and Robbery,30-09-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,2,3
+CR214,Robbery and Assault,Robbery and Assault,05-10-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR215,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,0,1,6,4,1,8
+CR216,Assault and Homicide,Assault and Homicide,15-12-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR217,Kidnapping and Theft,Kidnapping and Theft,20-01-2022,Kidnapping; Theft,IPC-365; IPC-379,1,1,4,2,3,3
+CR218,Robbery,Robbery,25-02-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR219,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,0,2,0,1,7
+CR220,Murder,Murder,05-04-2022,Murder,IPC-302,1,1,6,4,2,6
+CR221,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,0,1,5,3,1,5
+CR222,Robbery and Theft,Robbery and Theft,15-06-2022,Robbery; Theft,IPC-392; IPC-379,0,0,4,2,6,2
+CR223,Drug Trafficking,Drug Trafficking,20-07-2022,Trafficking,IPC-420,1,0,3,1,4,3
+CR224,Theft and Robbery,Theft and Robbery,25-08-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR225,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR226,Assault and Homicide,Assault and Homicide,05-10-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR227,Kidnapping and Robbery,Kidnapping and Robbery,10-11-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,2,3
+CR228,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,15-12-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR229,Theft,Theft,20-01-2022,Theft,IPC-379,0,1,2,0,6,1
+CR230,Burglary,Burglary,25-02-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR231,Murder,Murder,30-03-2022,Murder,IPC-302,1,1,5,3,2,6
+CR232,Sexual Assault and Assault,Sexual Assault and Assault,05-04-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR233,Kidnapping and Homicide,Kidnapping and Homicide,10-05-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR234,Robbery and Robbery,Robbery and Robbery,15-06-2022,"Robbery,Theft",IPC-392; IPC-392,1,0,2,0,6,2
+CR235,Assault and Theft,Assault and Theft,20-07-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR236,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,25-08-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR237,Kidnapping and Assault,Kidnapping and Assault,30-09-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR238,Robbery,Robbery,05-10-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR239,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR241,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,2,3
+CR242,Sexual Assault,Sexual Assault,25-02-2022,Rape,IPC-376,0,1,4,2,1,5
+CR243,Robbery and Homicide,Robbery and Homicide,30-03-2022,Robbery; Murder,IPC-392; IPC-302,1,1,3,1,1,7
+CR244,Assault,Assault,05-04-2022,Assault,IPC-323,1,1,2,0,3,4
+CR245,Burglary and Robbery,Burglary and Robbery,10-05-2022,Burglary; Robbery,IPC-459; IPC-392,1,0,6,4,6,2
+CR246,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR247,Theft,Theft,20-07-2022,Theft,IPC-379,0,1,4,2,6,1
+CR248,Kidnapping and Assault,Kidnapping and Assault,25-08-2022,Kidnapping; Assault,IPC-365; IPC-323,1,0,3,1,2,6
+CR249,Robbery,Robbery,30-09-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR250,Assault and Burglary,Assault and Burglary,05-10-2022,Assault; Burglary,IPC-323; IPC-459,1,1,6,4,2,5
+CR251,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,10-11-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR252,Theft and Sexual Assault,Theft and Sexual Assault,15-12-2022,Theft; Rape,IPC-379; IPC-376,1,0,4,2,1,6
+CR253,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,2,3
+CR254,Robbery and Assault,Robbery and Assault,25-02-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR255,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,0,1,6,4,1,8
+CR256,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR257,Kidnapping and Theft,Kidnapping and Theft,10-05-2022,Kidnapping; Theft,IPC-365; IPC-379,1,1,4,2,3,3
+CR258,Robbery,Robbery,15-06-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR259,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1,0,2,0,1,7
+CR260,Murder,Murder,25-08-2022,Murder,IPC-302,1,1,6,4,2,6
+CR261,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1,1,5,3,1,5
+CR262,Robbery and Theft,Robbery and Theft,05-10-2022,Robbery; Theft,IPC-392; IPC-379,0,0,4,2,6,2
+CR263,Drug Trafficking,Drug Trafficking,10-11-2022,Trafficking,IPC-420,1,0,3,1,4,3
+CR264,Theft and Robbery,Theft and Robbery,15-12-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR265,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR266,Assault and Homicide,Assault and Homicide,25-02-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR267,Kidnapping and Robbery,Kidnapping and Robbery,30-03-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,2,3
+CR268,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,05-04-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR269,Theft,Theft,10-05-2022,Theft,IPC-379,0,1,2,0,6,1
+CR270,Burglary,Burglary,15-06-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR271,Murder,Murder,20-07-2022,Murder,IPC-302,1,1,5,3,2,6
+CR272,Sexual Assault and Assault,Sexual Assault and Assault,25-08-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR273,Kidnapping and Homicide,Kidnapping and Homicide,30-09-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR274,Robbery and Robbery,Robbery and Robbery,05-10-2022,Robbery; Burglary,IPC-392; IPC-392,1,0,2,0,6,2
+CR275,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,4
+CR276,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR277,Kidnapping and Assault,Kidnapping and Assault,20-01-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR278,Robbery,Robbery,25-02-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR279,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR280,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,6,4,3,4
+CR281,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR282,Sexual Assault,Sexual Assault,15-06-2022,Rape,IPC-376,1,1,4,2,1,5
+CR283,Robbery and Homicide,Robbery and Homicide,20-07-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR284,Assault,Assault,25-08-2022,Assault,IPC-323,1,0,2,0,3,4
+CR285,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR286,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,0,1,5,3,1,8
+CR287,Theft,Theft,10-11-2022,Theft,IPC-379,1,1,4,2,6,1
+CR288,Kidnapping and Assault,Kidnapping and Assault,15-12-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR289,Robbery,Robbery,20-01-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR290,Assault and Burglary,Assault and Burglary,25-02-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,5
+CR291,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,30-03-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR292,Theft and Sexual Assault,Theft and Sexual Assault,05-04-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR293,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR294,Robbery and Assault,Robbery and Assault,15-06-2022,Robbery; Assault,IPC-392; IPC-323,1,1,2,0,2,5
+CR295,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,20-07-2022,Rape; Trafficking,IPC-376; IPC-420,1,0,6,4,1,8
+CR296,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR297,Kidnapping and Theft,Kidnapping and Theft,30-09-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR298,Robbery,Robbery,05-10-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR299,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR300,Murder,Murder,15-12-2022,Murder,IPC-302,1,1,6,4,2,6
+CR301,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1,1,5,3,1,5
+CR302,Robbery and Theft,Robbery and Theft,25-02-2022,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR303,Drug Trafficking,Drug Trafficking,30-03-2022,Trafficking,IPC-420,0,1,3,1,4,3
+CR304,Theft and Robbery,Theft and Robbery,05-04-2022,Theft; Robbery,IPC-379; IPC-392,0,1,2,0,6,2
+CR305,Burglary,Burglary,10-05-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR306,Assault and Homicide,Assault and Homicide,15-06-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR307,Kidnapping and Robbery,Kidnapping and Robbery,20-07-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR308,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,25-08-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR309,Theft,Theft,30-09-2022,Theft,IPC-379,1,0,2,0,6,1
+CR310,Burglary,Burglary,05-10-2022,Burglary,IPC-459,1,0,6,4,6,1
+CR311,Murder,Murder,10-11-2022,Murder,IPC-302,1,1,5,3,2,6
+CR312,Sexual Assault and Assault,Sexual Assault and Assault,15-12-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR313,Kidnapping and Homicide,Kidnapping and Homicide,20-01-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR314,Robbery and Robbery,Robbery and Robbery,25-02-2022,Robbery; Theft,IPC-392; IPC-392,1,1,2,0,6,2
+CR315,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,0,1,6,4,2,5
+CR316,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-04-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR317,Kidnapping and Assault,Kidnapping and Assault,10-05-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR318,Robbery,Robbery,15-06-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR319,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1,0,2,0,1,7
+CR320,Assault,Assault,25-08-2022,Assault,IPC-323,1,1,6,4,3,4
+CR321,Kidnapping and Robbery,Kidnapping and Robbery,30-09-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR322,Sexual Assault,Sexual Assault,05-10-2022,Rape,IPC-376,1,1,4,2,1,5
+CR323,Robbery and Homicide,Robbery and Homicide,10-11-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR324,Assault,Assault,15-12-2022,Assault,IPC-323,1,0,2,0,3,4
+CR325,Burglary and Robbery,Burglary and Robbery,20-01-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR326,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,25-02-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR327,Theft,Theft,30-03-2022,Theft,IPC-379,1,1,4,2,6,1
+CR328,Kidnapping and Assault,Kidnapping and Assault,05-04-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR329,Robbery,Robbery,10-05-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR330,Assault and Burglary,Assault and Burglary,15-06-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,5
+CR331,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,20-07-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR332,Theft and Sexual Assault,Theft and Sexual Assault,25-08-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR333,Kidnapping and Robbery,Kidnapping and Robbery,30-09-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR334,Robbery and Assault,Robbery and Assault,05-10-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR335,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,10-11-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR336,Assault and Homicide,Assault and Homicide,15-12-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR337,Kidnapping and Theft,Kidnapping and Theft,20-01-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR338,Robbery,Robbery,25-02-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR339,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR340,Murder,Murder,05-04-2022,Murder,IPC-302,1,1,6,4,2,6
+CR341,Sexual Assault,Sexual Assault,10-05-2022,Rape,IPC-376,1,1,5,3,1,5
+CR342,Robbery and Theft,Robbery and Theft,15-06-2022,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR343,Drug Trafficking,Drug Trafficking,20-07-2022,Trafficking,IPC-420,1,0,3,1,4,3
+CR344,Theft and Robbery,Theft and Robbery,25-08-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR345,Burglary,Burglary,30-09-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR346,Assault and Homicide,Assault and Homicide,05-10-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR347,Kidnapping and Robbery,Kidnapping and Robbery,10-11-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR348,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,15-12-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR349,Theft,Theft,20-01-2022,Theft,IPC-379,0,1,2,0,6,1
+CR350,Burglary,Burglary,25-02-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR351,Murder,Murder,30-03-2022,Murder,IPC-302,1,1,5,3,2,6
+CR352,Sexual Assault and Assault,Sexual Assault and Assault,05-04-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR353,Kidnapping and Homicide,Kidnapping and Homicide,10-05-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR354,Robbery and Robbery,Robbery and Robbery,15-06-2022,Robbery; Theft,IPC-392; IPC-392,1,0,2,0,6,2
+CR355,Assault and Theft,Assault and Theft,20-07-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR356,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,25-08-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR357,Kidnapping and Assault,Kidnapping and Assault,30-09-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR358,Robbery,Robbery,05-10-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR359,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR360,Assault,Assault,15-12-2022,Assault,IPC-323,1,0,6,4,3,4
+CR361,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR362,Sexual Assault,Sexual Assault,25-02-2022,Rape,IPC-376,1,1,4,2,1,5
+CR363,Robbery and Homicide,Robbery and Homicide,30-03-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR364,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,2,0,3,4
+CR365,Burglary and Robbery,Burglary and Robbery,10-05-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR366,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR367,Theft,Theft,20-07-2022,Theft,IPC-379,1,1,4,2,6,1
+CR368,Kidnapping and Assault,Kidnapping and Assault,25-08-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR369,Robbery,Robbery,30-09-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR370,Assault and Burglary,Assault and Burglary,05-10-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,4
+CR371,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,10-11-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR372,Theft and Sexual Assault,Theft and Sexual Assault,15-12-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR373,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR374,Robbery and Assault,Robbery and Assault,25-02-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR375,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR376,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR377,Kidnapping and Theft,Kidnapping and Theft,10-05-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR378,Robbery,Robbery,15-06-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR379,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR380,Murder,Murder,25-08-2022,Murder,IPC-302,1,1,6,4,2,6
+CR381,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1,1,5,3,1,5
+CR382,Robbery and Theft,Robbery and Theft,05-10-2022,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR383,Drug Trafficking,Drug Trafficking,10-11-2022,Trafficking,IPC-420,0,1,3,1,4,3
+CR384,Theft and Robbery,Theft and Robbery,15-12-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR385,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR386,Assault and Homicide,Assault and Homicide,25-02-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR387,Kidnapping and Robbery,Kidnapping and Robbery,30-03-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR388,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,05-04-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR389,Theft,Theft,10-05-2022,Theft,IPC-379,0,1,2,0,6,1
+CR390,Burglary,Burglary,15-06-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR391,Murder,Murder,20-07-2022,Murder,IPC-302,1,1,5,3,2,6
+CR392,Sexual Assault and Assault,Sexual Assault and Assault,25-08-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR393,Kidnapping and Homicide,Kidnapping and Homicide,30-09-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR394,Robbery and Robbery,Robbery and Robbery,05-10-2022,Robbery; Theft,IPC-392; IPC-392,1,0,2,0,6,2
+CR395,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR396,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR397,Kidnapping and Assault,Kidnapping and Assault,20-01-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR398,Robbery,Robbery,25-02-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR399,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR400,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,6,4,3,4
+CR401,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR402,Sexual Assault,Sexual Assault,15-06-2022,Rape,IPC-376,1,1,4,2,1,5
+CR403,Robbery and Homicide,Robbery and Homicide,20-07-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR404,Assault,Assault,25-08-2022,Assault,IPC-323,1,0,2,0,3,4
+CR405,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR406,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR407,Theft,Theft,10-11-2022,Theft,IPC-379,1,1,4,2,6,1
+CR408,Kidnapping and Assault,Kidnapping and Assault,15-12-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR409,Robbery,Robbery,20-01-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR410,Assault and Burglary,Assault and Burglary,25-02-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,5
+CR411,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,30-03-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR412,Theft and Sexual Assault,Theft and Sexual Assault,05-04-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR413,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR414,Robbery and Assault,Robbery and Assault,15-06-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR415,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,20-07-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR416,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR417,Kidnapping and Theft,Kidnapping and Theft,30-09-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR418,Robbery,Robbery,05-10-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR419,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR420,Murder,Murder,15-12-2022,Murder,IPC-302,1,1,6,4,2,6
+CR421,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1,1,5,3,1,5
+CR422,Robbery and Theft,Robbery and Theft,25-02-2022,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR423,Drug Trafficking,Drug Trafficking,30-03-2022,Trafficking,IPC-420,0,1,3,1,4,3
+CR424,Theft and Robbery,Theft and Robbery,05-04-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR425,Burglary,Burglary,10-05-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR426,Assault and Homicide,Assault and Homicide,15-06-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR427,Kidnapping and Robbery,Kidnapping and Robbery,20-07-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR428,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,25-08-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR429,Theft,Theft,30-09-2022,Theft,IPC-379,0,1,2,0,6,1
+CR430,Burglary,Burglary,05-10-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR431,Murder,Murder,10-11-2022,Murder,IPC-302,1,1,5,3,2,6
+CR432,Sexual Assault and Assault,Sexual Assault and Assault,15-12-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR433,Kidnapping and Homicide,Kidnapping and Homicide,20-01-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR434,Robbery and Robbery,Robbery and Robbery,25-02-2022,Robbery; Theft,IPC-392; IPC-392,1,0,2,0,6,2
+CR435,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR436,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-04-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR437,Kidnapping and Assault,Kidnapping and Assault,10-05-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR438,Robbery,Robbery,15-06-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR439,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,6
+CR440,Assault,Assault,25-08-2022,Assault,IPC-323,1,0,6,4,3,4
+CR441,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR442,Sexual Assault,Sexual Assault,25-02-2022,Rape,IPC-376,1,1,4,2,1,5
+CR443,Robbery and Homicide,Robbery and Homicide,30-03-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR444,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,2,0,3,4
+CR445,Burglary and Robbery,Burglary and Robbery,10-05-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR446,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-06-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR447,Theft,Theft,20-07-2022,Theft,IPC-379,1,1,4,2,6,1
+CR448,Kidnapping and Assault,Kidnapping and Assault,25-08-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR449,Robbery,Robbery,30-09-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR450,Assault and Burglary,Assault and Burglary,05-10-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,5
+CR451,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,10-11-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR452,Theft and Sexual Assault,Theft and Sexual Assault,15-12-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR453,Kidnapping and Robbery,Kidnapping and Robbery,20-01-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR454,Robbery and Assault,Robbery and Assault,25-02-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR455,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,30-03-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR456,Assault and Homicide,Assault and Homicide,05-04-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR457,Kidnapping and Theft,Kidnapping and Theft,10-05-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR458,Robbery,Robbery,15-06-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR459,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR460,Murder,Murder,25-08-2022,Murder,IPC-302,1,1,6,4,2,6
+CR461,Sexual Assault,Sexual Assault,30-09-2022,Rape,IPC-376,1,1,5,3,1,5
+CR462,Robbery and Theft,Robbery and Theft,05-10-2022,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR463,Drug Trafficking,Drug Trafficking,10-11-2022,Trafficking,IPC-420,0,1,3,1,4,3
+CR464,Theft and Robbery,Theft and Robbery,15-12-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR465,Burglary,Burglary,20-01-2022,Burglary,IPC-459,1,1,6,4,6,1
+CR466,Assault and Homicide,Assault and Homicide,25-02-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR467,Kidnapping and Robbery,Kidnapping and Robbery,30-03-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR468,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,05-04-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR469,Theft,Theft,10-05-2022,Theft,IPC-379,0,1,2,0,6,1
+CR470,Burglary,Burglary,15-06-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR471,Murder,Murder,20-07-2022,Murder,IPC-302,1,1,5,3,2,6
+CR472,Sexual Assault and Assault,Sexual Assault and Assault,25-08-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR473,Kidnapping and Homicide,Kidnapping and Homicide,30-09-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR474,Robbery and Robbery,Robbery and Robbery,05-10-2022,Robbery; Theft,IPC-392; IPC-392,1,0,2,0,6,2
+CR475,Assault and Theft,Assault and Theft,10-11-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR476,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,15-12-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR477,Kidnapping and Assault,Kidnapping and Assault,20-01-2022,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR478,Robbery,Robbery,25-02-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR479,Burglary and Homicide,Burglary and Homicide,30-03-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR480,Assault,Assault,05-04-2022,Assault,IPC-323,1,0,6,4,3,4
+CR481,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,5,3,3,3
+CR482,Sexual Assault,Sexual Assault,15-06-2022,Rape,IPC-376,1,1,4,2,1,5
+CR483,Robbery and Homicide,Robbery and Homicide,20-07-2022,Robbery; Murder,IPC-392; IPC-302,1,0,3,1,1,7
+CR484,Assault,Assault,25-08-2022,Assault,IPC-323,1,0,2,0,3,4
+CR485,Burglary and Robbery,Burglary and Robbery,30-09-2022,Burglary; Robbery,IPC-459; IPC-392,1,1,6,4,6,2
+CR486,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-10-2022,Trafficking; Rape,IPC-420; IPC-376,1,1,5,3,1,8
+CR487,Theft,Theft,10-11-2022,Theft,IPC-379,1,1,4,2,6,1
+CR488,Kidnapping and Assault,Kidnapping and Assault,15-12-2022,Kidnapping; Assault,IPC-365; IPC-323,0,0,3,1,2,6
+CR489,Robbery,Robbery,20-01-2022,Robbery,IPC-392,1,1,2,0,6,1
+CR490,Assault and Burglary,Assault and Burglary,25-02-2022,Assault; Burglary,IPC-323; IPC-459,1,0,6,4,2,5
+CR491,Drug Trafficking and Kidnapping,Drug Trafficking and Kidnapping,30-03-2022,Trafficking; Kidnapping,IPC-420; IPC-365,1,1,5,3,3,5
+CR492,Theft and Sexual Assault,Theft and Sexual Assault,05-04-2022,Theft; Rape,IPC-379; IPC-376,1,1,4,2,1,6
+CR493,Kidnapping and Robbery,Kidnapping and Robbery,10-05-2022,Kidnapping; Robbery,IPC-365; IPC-392,0,1,3,1,3,3
+CR494,Robbery and Assault,Robbery and Assault,15-06-2022,Robbery; Assault,IPC-392; IPC-323,1,0,2,0,2,5
+CR495,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,20-07-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,6,4,1,8
+CR496,Assault and Homicide,Assault and Homicide,25-08-2022,Assault; Murder,IPC-323; IPC-302,1,1,5,3,1,10
+CR497,Kidnapping and Theft,Kidnapping and Theft,30-09-2022,Kidnapping; Theft,IPC-365; IPC-379,1,0,4,2,3,3
+CR498,Robbery,Robbery,05-10-2022,Robbery,IPC-392,0,1,3,1,6,1
+CR499,Burglary and Homicide,Burglary and Homicide,10-11-2022,Burglary; Murder,IPC-459; IPC-302,0,1,2,0,1,7
+CR500,Murder,Murder,15-12-2022,Murder,IPC-302,1,1,6,4,2,6
+CR501,Sexual Assault,Sexual Assault,20-01-2022,Rape,IPC-376,1,1,5,3,1,5
+CR502,Robbery and Theft,Robbery and Theft,25-02-2023,Robbery; Theft,IPC-392; IPC-379,1,0,4,2,6,2
+CR503,Drug Trafficking,Drug Trafficking,30-03-2022,Trafficking,IPC-420,0,1,3,1,4,3
+CR504,Theft and Robbery,Theft and Robbery,05-04-2022,Theft; Robbery,IPC-379; IPC-392,1,1,2,0,6,2
+CR505,Burglary,Burglary,10-05-2023,Burglary,IPC-459,1,1,6,4,6,1
+CR506,Assault and Homicide,Assault and Homicide,15-06-2022,Assault; Murder,IPC-323; IPC-302,1,0,5,3,1,10
+CR507,Kidnapping and Robbery,Kidnapping and Robbery,20-07-2022,Kidnapping; Robbery,IPC-365; IPC-392,1,1,4,2,3,3
+CR508,Sexual Assault and Drug Trafficking,Sexual Assault and Drug Trafficking,25-08-2022,Rape; Trafficking,IPC-376; IPC-420,1,1,3,1,1,8
+CR509,Theft,Theft,30-09-2022,Theft,IPC-379,0,1,2,0,6,1
+CR510,Burglary,Burglary,05-10-2022,Burglary,IPC-459,0,0,6,4,6,1
+CR511,Murder,Murder,10-11-2022,Murder,IPC-302,1,1,5,3,2,6
+CR512,Sexual Assault and Assault,Sexual Assault and Assault,15-12-2022,Rape; Assault,IPC-376; IPC-323,1,1,4,2,1,9
+CR513,Kidnapping and Homicide,Kidnapping and Homicide,20-01-2022,Kidnapping; Murder,IPC-365; IPC-302,1,0,3,1,1,8
+CR514,Robbery and Robbery,Robbery and Robbery,25-02-2022,Robbery; Theft,IPC-392; IPC-392,1,0,2,0,6,2
+CR515,Assault and Theft,Assault and Theft,30-03-2022,Assault; Theft,IPC-323; IPC-379,1,1,6,4,2,5
+CR516,Drug Trafficking and Sexual Assault,Drug Trafficking and Sexual Assault,05-04-2022,Trafficking; Rape,IPC-420; IPC-376,1,0,5,3,1,8
+CR517,Kidnapping and Assault,Kidnapping and Assault,10-05-2023,Kidnapping; Assault,IPC-365; IPC-323,1,1,4,2,2,6
+CR518,Robbery,Robbery,15-06-2022,Robbery,IPC-392,1,1,3,1,6,1
+CR519,Burglary and Homicide,Burglary and Homicide,20-07-2022,Burglary; Murder,IPC-459; IPC-302,1,1,2,0,1,7
+CR520,Assault,Assault,25-08-2023,Assault,IPC-323,1,0,6,4,3,4
